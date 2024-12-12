@@ -44,8 +44,8 @@ Library-Management-System/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Library-Management-System.git
-   cd Library-Management-System
+   git clone https://github.com/Parthpawer/library_management_api.git
+   cd library_management_api
    ```
 
 2. Create a virtual environment:
